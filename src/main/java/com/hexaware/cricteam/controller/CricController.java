@@ -5,7 +5,7 @@ import com.hexaware.cricteam.dto.PlayerDTO;
 import com.hexaware.cricteam.dto.PlayerNameAndRoleDTO;
 import com.hexaware.cricteam.service.IPlayer;
 import jakarta.validation.Valid;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Autowired; 
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
